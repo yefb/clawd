@@ -1,0 +1,51 @@
+# Clawdbot Workspace .gitignore
+
+# ============================================
+# NEVER commit these (secrets/tokens)
+# ============================================
+auth-profiles.json
+*.secret
+*.key
+*.pem
+.env
+.env.*
+
+# Financial data
+scripts/pagos.json
+
+# ============================================
+# Platform-specific (keep local)
+# ============================================
+# Session data
+sessions/
+*.session
+
+# Canvas runtime
+canvas/
+
+# Logs
+*.log
+logs/
+
+# Temp files
+*.tmp
+.DS_Store
+Thumbs.db
+
+# ============================================
+# Optional: Uncomment if you want to exclude
+# ============================================
+# BOOTSTRAP.md        # Delete after first run anyway
+# clawd/              # Subfolder if not needed
+
+# ============================================
+# Include these (safe for Git)
+# ============================================
+# AGENTS.md
+# IDENTITY.md
+# USER.md
+# SOUL.md
+# TOOLS.md
+# HEARTBEAT.md
+# memory/
+# platforms/
