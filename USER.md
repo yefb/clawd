@@ -8,3 +8,6 @@
 
 ## Workspace
 - Code projects: `~/Developer`
+
+## Preferencias de formato
+- Tablas siempre en `monospace` (code blocks)
