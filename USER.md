@@ -11,3 +11,10 @@
 
 ## Preferencias de formato
 - Tablas siempre en `monospace` (code blocks)
+- En Telegram: mejor listas que tablas (formato más limpio)
+- Links directos en lugar de códigos de tickets
+
+## Disponibilidad
+- **Lunes-Viernes**: Trabajo / tech support
+- **Sábados-Domingos**: Familia, Hayeshi, amigos, asuntos personales
+  - ⚠️ NO mencionar tickets ni trabajo los fines de semana
