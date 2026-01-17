@@ -73,6 +73,9 @@
 - **Niños** (6-12 años) - Clase prueba: 1 hora
   - Típicamente 10-15 estudiantes por clase
   - Yeiner y Lillán co-dictan la clase de 11-12 años
+  - **Horario actual:** Sábados 11am-12pm (Taekwondo)
+  - Edad promedio grupo: 9-11 años
+  - Academia bien equipada (escudos, tatami, etc.)
 - **Adolescentes** (13-17 años) - Clase prueba: 2 horas
 - **Adultos** (18+) - Clase prueba: 2 horas
 

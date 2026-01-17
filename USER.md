@@ -26,3 +26,5 @@
 - **Hayeshi Artes Marciales** (hayeshi.co) - Escuela en Medellín
   - Taekwondo, Boxeo, Krav Maga, Judo, Jiujitsu, Capoeira
   - Sede: Centro Comercial Monterrey, El Poblado
+  - **Clases de Yeiner:** Sábados 11am-12pm (Taekwondo niños 9-11 años)
+  - Plantillas de itinerarios en `hayeshi/itinerarios-taekwondo.md`
