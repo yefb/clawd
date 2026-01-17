@@ -15,6 +15,11 @@
 ## Hayeshi Artes Marciales (hayeshi.co)
 **Escuela de artes marciales en Medellín**
 
+### Fundadores
+- Yeiner Fernández (también da clases, no publicado en web)
+- Lillán Villa (esposa de Yeiner)
+- Ferney Moncada
+
 ### Disciplinas
 - 🥊 **Boxeo** - El arte noble
 - 🛡️ **Krav Maga** - Defensa real
@@ -63,6 +68,8 @@
 
 ### Programas
 - **Niños** (6-12 años) - Clase prueba: 1 hora
+  - Típicamente 10-15 estudiantes por clase
+  - Yeiner y Lillán co-dictan la clase de 11-12 años
 - **Adolescentes** (13-17 años) - Clase prueba: 2 horas
 - **Adultos** (18+) - Clase prueba: 2 horas
 
