@@ -15,6 +15,14 @@
 - Links directos en lugar de códigos de tickets
 
 ## Disponibilidad
-- **Lunes-Viernes**: Trabajo / tech support
-- **Sábados-Domingos**: Familia, Hayeshi, amigos, asuntos personales
-  - ⚠️ NO mencionar tickets ni trabajo los fines de semana
+- **Lunes-Viernes**: Trabajo / tech support de Attention.io
+- **Sábados-Domingos**: Familia, amigos, asuntos personales, y Hayeshi
+  - ⚠️ NO mencionar tickets de Attention ni tech support los fines de semana
+  - ✅ OK hablar de Hayeshi (su emprendimiento propio)
+
+## Proyectos personales
+- **Hayeshi** (hayeshi.com) - Compañía de software
+  - GardenOS: Journal app para amantes de plantas (iOS, early 2026)
+- **Hayeshi Artes Marciales** (hayeshi.co) - Escuela en Medellín
+  - Taekwondo, Boxeo, Krav Maga, Judo, Jiujitsu, Capoeira
+  - Sede: Centro Comercial Monterrey, El Poblado
