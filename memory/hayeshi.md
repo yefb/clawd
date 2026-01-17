@@ -64,6 +64,12 @@
 - Local 232
 - Tel: +573212326590
 
+### Commute (desde casa de Yeiner)
+- **Origen:** Parcelación Las Palmas
+- **Destino:** CC Monterrey, El Poblado
+- **Tiempo:** 40 minutos (fijo)
+- **Para clase 11am:** Salir 10:20am
+
 ### Contacto
 - WhatsApp: +573244234341
 - Email: info@hayeshi.co
