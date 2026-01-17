@@ -16,9 +16,12 @@
 **Escuela de artes marciales en Medellín**
 
 ### Fundadores
-- Yeiner Fernández (también da clases, no publicado en web)
-- Lillán Villa (esposa de Yeiner)
-- Ferney Moncada
+- **Yeiner Fernández** (Taekwondo - Cinturón Negro 2do Dan)
+  - También da clases, no publicado en web aún
+  - Avisará cuando esté live con bio completa
+- **Lillán Villa** (esposa de Yeiner - Cinturón Negro 1er Dan)
+- **Ferney Moncada** (Krav Maga, Taekwondo)
+  - No publicado en web aún
 
 ### Disciplinas
 - 🥊 **Boxeo** - El arte noble
